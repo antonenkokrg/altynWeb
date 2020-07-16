@@ -36,7 +36,8 @@ body{
     }
     .main-text {
         top: 150px;
-        background-color: rgba(211,211,211,0.5);
+        left: 30px;
+        background-color: rgba(211,211,211,0.7);
     }
 
     .main-text h1{
@@ -54,8 +55,4 @@ body{
         transform: translateX(20%);
         bottom: 0px;
         z-index: 2;
-}
-.main-left{
-    left:40px;
-}
-      
+}  
